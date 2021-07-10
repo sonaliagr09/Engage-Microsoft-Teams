@@ -1,0 +1,289 @@
+/* Global */
+
+* {
+  font-family: Avenir, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+/* Chats Page */
+#ms{
+  vertical-align:middle;
+  padding:0px;
+}
+.chats-page {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100vw;
+  height: 100vh;
+}
+
+.nav-bar {
+  width: 100%;
+  height: 66px; /*66px*/
+  background-color: black;
+}
+
+.logo-tab {
+  position: absolute;
+  left: 22px;
+  top: 0px;
+  font-size: 28px;
+  font-weight: 400;
+  color: white;
+}
+.vc{
+  padding-left: 15px;
+}
+.videocall-tab{
+  position: absolute;
+  top: 22px;
+  right: 150px;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+}
+.ms-logo{
+  padding: 0px;
+  width: 6.5%;
+  color: white;
+}
+.logout-tab {
+  position: absolute;
+  top: 22px;
+  right: 22px;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
+
+/* Login Page */
+
+#login-page {
+  
+  background-color: black;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+.logo-ms2{
+  padding: 0px;
+  width: 6.5%;
+  vertical-align:middle;
+}
+#login-card {
+  font-weight: 400;
+  line-height: 1.5;
+  margin-top:0px;
+  font-size: 30px; 
+  color:white; 
+  width: 100%; 
+  height: 100%; 
+  float: left;
+
+}
+
+.meet-avatar{
+  margin-left: 42%;
+  margin-top: 5%;
+}
+.meet-avatar-logo{
+  padding: 0px;
+  width: 20%;
+}
+.chat-room{
+  margin-left: 42%;
+  margin-top: 2%;
+  font-size: 23px;
+}
+.login-button {
+  cursor: pointer;
+  color: white;
+  padding: 5px;
+  border-radius: 8px;
+  display: inline-block;
+  margin-left: 42.5%;
+  margin-top: 2%;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/*
+.facebook {
+  background-color: #3b5998;
+}
+*/
+.google {
+  /*background-color: #4285f4;*/
+  background-color: rgb(89, 21, 199);
+  color: white;
+}
+
+#loading-container {
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background-color: rgb(255, 255, 255, 0.22);
+}
+
+#loading-icon {
+  font-size: 66px;
+  position: relative;
+  left: calc(50vw - 33px);
+  top: calc(50vh - 22px);
+}
+.ce-chat-title-text{
+  color: white;
+  font-weight: 400;
+}
+.ce-chat-subtitle-text{
+  color: white!important;
+}
+.ce-chat-subtitle-message{
+  color: white!important;
+}
+#ce-send-message-button{
+  background-color:rgb(89, 21, 199)!important; 
+}
+.ce-chat-unread-dot{
+  background-color:white!important; 
+}
+.ce-primary-button{
+  background-color:rgb(89, 21, 199)!important; 
+}
+.ce-my-message-bubble{
+  background-color: rgb(89, 21, 199)!important;
+}
+.ce-message-date-text{
+  color:white!important; 
+}
+.ce-their-message-sender{
+  color:white!important; 
+}
+#toolbar{
+  color: white!important;
+}
+.anticon-menu{
+  color:rgb(89, 21, 199)!important; 
+}
+.anticon-setting{
+  color:rgb(89, 21, 199)!important; 
+}
+.ce-their-message-bubble{
+  background-color: rgb(211, 211, 211)!important;
+}
+.ce-chat-feed-container{
+  background-color:rgb(32, 32, 32)!important;
+}
+.ce-settings{
+  background-color: rgb(32, 32, 32)!important;
+  /* color: white!important; */
+}
+.ce-chats-container{
+  background-color: rgb(32, 32, 32)!important;
+  border-radius: 0px!important;
+  /* color: white!important; */
+}
+.ce-chat-card{
+  color: white!important;
+}
+.ce-chat-form-container{
+  background-color: rgb(32, 32, 32)!important;
+  color: white!important;
+  font-weight: 400!important;
+  font-size: 20px!important;
+}
+.ce-chat-title{
+  background-color: rgb(32, 32, 32)!important;
+  color: white!important;
+}
+.ce-chat-title-container{
+  background-color: rgb(32, 32, 32)!important;
+  color: white!important;
+}
+#msg-form-container{
+  background-color: rgb(32, 32, 32)!important;
+  color:white;
+}
+.ce-active-chat-card{
+  background-color: rgb(58, 57, 57)!important ;
+}
+.ce-text-input{
+  background-color:white!important;
+  color:black;
+  border-radius: 8px!important;
+  margin-bottom: 15px!important;
+  font-size: 15px!important;
+  font-weight: 600!important;
+}
+.ce-chat-settings-container {
+  background-color:white!important;
+  color:black;
+  border-radius: 8px!important;
+  margin-bottom: 5px!important;
+  font-size: 15px!important;
+  font-weight: 400!important;
+}
+.ce-person-title-container {
+  background-color:white!important;
+  color:black;
+  border-radius: 8px!important;
+  margin-bottom: 5px!important;
+  font-size: 15px!important;
+  font-weight: 400!important;
+  
+}
+.ce-person-text{
+  color:white;
+}
+#ce-add-username-input{
+  border-radius: 8px!important;
+  color: black!important;
+}
+.ce-photo-title-container {
+  background-color:white!important;
+  color:black;
+  border-radius: 8px!important;
+  margin-bottom: 5px!important;
+  font-size: 15px!important;
+  font-weight: 400!important;
+}
+#ce-options-drop-down{
+  background-color:white!important;
+  color:black;
+  border-radius: 8px!important;
+  margin-bottom: 5px!important;
+  font-size: 15px!important;
+  font-weight: 400!important; 
+}
+#ce-delete-chat-button{
+  background-color:white!important;
+  color:black;
+  border: 2px solid red!important;
+  border-radius: 8px!important;
+  margin-bottom: 5px!important;
+  font-size: 15px!important;
+  font-weight: 700!important; 
+}
+.ql-snow .ql-stroke {
+  fill: none;
+  stroke: white!important;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2;
+}
+.anticon-paper-clip{
+  color: white!important;
+}
