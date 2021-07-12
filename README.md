@@ -42,7 +42,7 @@ https://engage-ms-teams-videocall.herokuapp.com/?room=testvc_1670216324
 * On terminal 2-Server side
     - ```cd MicrosoftTeams```
     - ```npm init```
-    - ```npm install express ejs socket.io uuid peer```
+    - ```npm install express socket.io uuid peer```
     - ```npm install -g nodemon```
     - ```nodemon app.js```
 
