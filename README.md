@@ -68,8 +68,7 @@ As the theme of this year’s engage program says “Intelligence is the ability
 ![vc](https://user-images.githubusercontent.com/64857584/125252541-1d94aa80-e316-11eb-915c-e6c2ca76d990.png)
 
 ### In-call Chat messages
-![vc](https://user-images.githubusercontent.com/64857584/125331587-cd453900-e365-11eb-97fb-055fbf2a5576.png)
-
+![vc](https://user-images.githubusercontent.com/64857584/125331776-0ed5e400-e366-11eb-82b9-1f1922d13cb3.png)
 
 ### Screen-Sharing
 ![vc](https://user-images.githubusercontent.com/64857584/125253037-9ac01f80-e316-11eb-828f-bccf24c50ac9.png)
