@@ -19,11 +19,12 @@ https://engage-ms-teams-videocall.herokuapp.com/?room=testvc_1670216324
 * Meet-link sharing option
 * In-call chat messages
 * Pin participants' stream
-* Adapt stage Chat feature
+* Adapt stage-Chat feature
     - View & Send messages
     - Continue the conversation after the meeting
     - Start the conversation before the meeting
 * Firebase Authentication using google account
+* Chat Notification 
 
 ## How to run the app
 
