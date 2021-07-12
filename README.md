@@ -20,6 +20,24 @@ Implementation of Microsoft Teams clone web app in which two participants are ab
     - Start the conversation before the meeting
 * Firebase Authentication using google account
 
+## How to run the app
+
+* Client side
+    - ```cd ClientChatFeature ```
+    - ```npm start``` 
+* Server side
+    - ```cd MicrosoftTeams```
+    - ```nodemon app.js```
+
+## Tech Stack used
+* WebRTC 
+* Node.js
+* Socket.io
+* Chat engine
+* React.js
+* Firebase (for authentication)
+* Heroku (Hosting)
+
 ## Screenshots
 
 ### Login Page
@@ -46,22 +64,4 @@ Implementation of Microsoft Teams clone web app in which two participants are ab
 ### Screen-Sharing
 ![vc](https://user-images.githubusercontent.com/64857584/125253037-9ac01f80-e316-11eb-828f-bccf24c50ac9.png)
 
-
-## How to run the app
-
-* Client side
-    - cd ClientChatFeature
-    - npm start 
-* Server side
-    - cd MicrosoftTeams
-    - nodemon app.js 
-
-## Tech Stack
-* WebRTC 
-* Node.js
-* Socket.io
-* Chat engine
-* React.js
-* Firebase (for authentication)
-* Heroku (Hosting)
 
