@@ -4,7 +4,7 @@
 
 ## Microsoft Teams Clone
 
-Implementation of Microsoft Teams clone web app in which two participants are able to connect with each other to have a video conversation. The app includes features like in-call chat messages, screen sharing, toggling of video/audio stream, view and send messages, start the conversation before the meeting, continue the conversation after the meeting, Firebase Authentication using google account.
+Implementation of Microsoft Teams clone web app in which participants are able to connect with each other to have a video conversation. The app includes features like in-call chat messages, screen sharing, toggling of video/audio stream, view and send messages, start the conversation before the meeting, continue the conversation after the meeting, Firebase Authentication using google account.
 
 #### App Link- https://engage-ms-teams.herokuapp.com/
 
@@ -12,7 +12,7 @@ Implementation of Microsoft Teams clone web app in which two participants are ab
 https://engage-ms-teams-videocall.herokuapp.com/?room=testvc_1670216324
 
 ## Features and Functionalities
-* One to one video calling
+* One to many participants video calling (Ideal for 2 participants)
 * Toggling of video stream (Hide & unhide video)
 * Toggling of audio stream (mute & unmute)
 * Screen sharing
@@ -68,7 +68,8 @@ As the theme of this year’s engage program says “Intelligence is the ability
 ![vc](https://user-images.githubusercontent.com/64857584/125252541-1d94aa80-e316-11eb-915c-e6c2ca76d990.png)
 
 ### In-call Chat messages
-![vc](https://user-images.githubusercontent.com/64857584/125252810-677d9080-e316-11eb-84a4-c192ecb5376d.png)
+![vc](https://user-images.githubusercontent.com/64857584/125331587-cd453900-e365-11eb-97fb-055fbf2a5576.png)
+
 
 ### Screen-Sharing
 ![vc](https://user-images.githubusercontent.com/64857584/125253037-9ac01f80-e316-11eb-828f-bccf24c50ac9.png)
