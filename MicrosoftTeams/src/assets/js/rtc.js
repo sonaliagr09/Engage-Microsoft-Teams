@@ -285,14 +285,15 @@ window.addEventListener( 'load', () => {
             return {
                 iceServers: [
                     {
-                        urls: ["stun:eu-turn4.xirsys.com"]
+                        urls: ["stun:bn-turn1.xirsys.com"]
                     },
                     {
-                        username: "ml0jh0qMKZKd9P_9C0UIBY2G0nSQMCFBUXGlk6IXDJf8G2uiCymg9WwbEJTMwVeiAAAAAF2__hNSaW5vbGVl",
-                        credential: "4dd454a6-feee-11e9-b185-6adcafebbb45",
+                        username: "kXGZxE7sBoIU0h9Dnd_m7w6dkDiuOG2j8HKkVFKIETO50mIWD8kmP515b7pJhNF4AAAAAGDsTLZzb25hbGlhZ3I=",
+                        credential: "8aacc93c-e31a-11eb-bbdf-0242ac140004",
                         urls: [
-                            "turn:eu-turn4.xirsys.com:80?transport=udp",
-                            "turn:eu-turn4.xirsys.com:3478?transport=tcp"
+                            "turn:bn-turn1.xirsys.com:80?transport=udp",
+                            "turn:bn-turn1.xirsys.com:3478?transport=udp",
+                            "turn:bn-turn1.xirsys.com:80?transport=tcp",
                         ]
                     }
                 ]
