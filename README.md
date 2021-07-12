@@ -61,28 +61,41 @@ As the theme of this year’s engage program says “Intelligence is the ability
 
 ## Screenshots
 
-### Login Page- First, we get to the login page of the app and we can signup using google account here.
+### Login Page- 
+First, we get to the login page of the app and we can signup using google account here.
+
 ![login page](https://user-images.githubusercontent.com/64857584/125251529-0a350f80-e315-11eb-8618-a301c183b47e.png)
 
-### Chat's Feed- Now, we enter the chat's feed after logging in to the app, here we can create rooms, send or receive messages from other participants, share multimedia, delete chat rooms, see other users typing status, online/offline status, avatar etc. On the top right corner if we click, we go to video call option.
+### Chat's Feed- 
+Now, we enter the chat's feed after logging in to the app, here we can create rooms, send or receive messages from other participants, share multimedia, delete chat rooms, see other users typing status, online/offline status, avatar etc. On the top right corner if we click, we go to video call option.
+
 ![chat's feed](https://user-images.githubusercontent.com/64857584/125251763-49fbf700-e315-11eb-9656-7ebcfe078d2f.png)
 
-### VideoCall- Create Room- Now, here we can create a room for video calling. 
+### VideoCall- Create Room 
+Now, here we can create a room for video calling. 
+
 ![video room create](https://user-images.githubusercontent.com/64857584/125252009-8891b180-e315-11eb-97e0-1a4758f85868.png)
 
-### Meet-link Share option- After entering the room, we can share the link with other participants in the chat room and ask them to join the meeting.
+### Meet-link Share option
+After entering the room, we can share the link with other participants in the chat room and ask them to join the meeting.
+
 ![vc](https://user-images.githubusercontent.com/64857584/125316838-1c836d80-e356-11eb-9bb2-65e4b1a807b4.png)
 
-### Join a VideoCall- Other users joining the video call using the link.
+### Join a VideoCall 
+Other users joining the video call using the link.
+
 ![video room create](https://user-images.githubusercontent.com/64857584/125252256-c55da880-e315-11eb-945a-8cf50f60f686.png)
 
 ### Video Conversation
+
 ![vc](https://user-images.githubusercontent.com/64857584/125252541-1d94aa80-e316-11eb-915c-e6c2ca76d990.png)
 
 ### In-call Chat messages
+
 ![vc](https://user-images.githubusercontent.com/64857584/125331776-0ed5e400-e366-11eb-82b9-1f1922d13cb3.png)
 
 ### Screen-Sharing
+
 ![vc](https://user-images.githubusercontent.com/64857584/125253037-9ac01f80-e316-11eb-828f-bccf24c50ac9.png)
 
 
