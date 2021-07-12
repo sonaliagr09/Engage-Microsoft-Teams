@@ -1,5 +1,8 @@
 # Engage-Microsoft-Teams
 
+![Untitled presentation (1)](https://user-images.githubusercontent.com/64857584/125307781-fa85ed00-e34d-11eb-9a32-c389d7c440ca.png)
+
+
 ## Microsoft Teams Clone
 
 Implementation of Microsoft Teams clone web app in which two participants are able to connect with each other to have a video conversation. The app includes features like in-call chat messages, screen sharing, toggling of video/audio stream, view and send messages, start the conversation before the meeting, continue the conversation after the meeting, Firebase Authentication using google account.
