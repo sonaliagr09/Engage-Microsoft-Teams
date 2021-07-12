@@ -4,7 +4,7 @@
 
 Implementation of Microsoft Teams clone web app in which two participants are able to connect with each other to have a video conversation. The app includes features like in-call chat messages, screen sharing, toggling of video/audio stream, view and send messages, start the conversation before the meeting, continue the conversation after the meeting, Firebase Authentication using google account.
 
-#### Project Link- https://engage-ms-teams.herokuapp.com/
+#### App Link- https://engage-ms-teams.herokuapp.com/
 
 ## Features and Functionalities
 * One to one video calling
