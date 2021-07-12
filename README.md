@@ -45,7 +45,7 @@ https://engage-ms-teams-videocall.herokuapp.com/?room=testvc_1670216324
 
 ## Implementation of Agile Methodology
 
-As the theme of this year’s engage program says “Intelligence is the ability to adapt to change” and so follows the agile methodology. So, I have implemented an agile methodology in building this app also. As agile methodology welcomes changes and new features that we can add to the existing product, I have implemented the chat feature using agile. Also, as i am taking the data of the users during login, the app can adopt to several other features that can make use of the data and the firebase authentication can also be extended to other platforms making it agile.
+As the theme of this year’s engage program says “Intelligence is the ability to adapt to change” and so follows the agile methodology. So, I have implemented an agile methodology while building this app also. As agile methodology welcomes changes and new features that we can add to the existing product, I have implemented the chat feature using agile. Also, as i am taking the data of the users during login, the app can adopt to several other features that can make use of the data and the firebase authentication can also be extended to other platforms making it agile.
 
 ## Screenshots
 
