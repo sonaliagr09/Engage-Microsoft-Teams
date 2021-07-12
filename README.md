@@ -1,6 +1,7 @@
 # Engage-Microsoft-Teams
 
-![Untitled presentation (1)](https://user-images.githubusercontent.com/64857584/125307781-fa85ed00-e34d-11eb-9a32-c389d7c440ca.png)
+![Untitled presentation (3)](https://user-images.githubusercontent.com/64857584/125316253-9404cd00-e355-11eb-8722-2a897b2a878b.png)
+
 
 
 ## Microsoft Teams Clone
@@ -57,7 +58,7 @@ As the theme of this year’s engage program says “Intelligence is the ability
 ![video room create](https://user-images.githubusercontent.com/64857584/125252009-8891b180-e315-11eb-97e0-1a4758f85868.png)
 
 ### Meet-link Share option
-![vc](https://user-images.githubusercontent.com/64857584/125253351-f12d5e00-e316-11eb-97c7-006d408b18c4.png)
+![vc](https://user-images.githubusercontent.com/64857584/125316838-1c836d80-e356-11eb-9bb2-65e4b1a807b4.png)
 
 ### Join a VideoCall
 ![video room create](https://user-images.githubusercontent.com/64857584/125252256-c55da880-e315-11eb-945a-8cf50f60f686.png)
