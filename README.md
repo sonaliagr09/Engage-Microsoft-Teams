@@ -4,7 +4,7 @@
 
 ## Microsoft Teams Clone
 
-Implementation of Microsoft Teams clone web app in which participants are able to connect with each other to have a video conversation. The app includes features like in-call chat messages, screen sharing, toggling of video/audio stream, view and send messages, start the conversation before the meeting, continue the conversation after the meeting, Firebase Authentication using google account.
+Implementation of Microsoft Teams clone web app in which multiple participants are able to connect with each other to have a video conversation as well as chat conversation. The app includes features like in-call chat messages, screen sharing, toggling of video/audio stream, view and send messages, start the conversation before the meeting, continue the conversation after the meeting, Firebase Authentication using google account.
 
 #### App Link- https://engage-ms-teams.herokuapp.com/
 
@@ -20,19 +20,30 @@ https://engage-ms-teams-videocall.herokuapp.com/?room=testvc_1670216324
 * In-call chat messages
 * Pin participants' stream
 * Adapt stage-Chat feature
-    - View & Send messages
+    - Create Chat rooms, add users into it
+    - Delete chat rooms
+    - View & Send messages, attachments, photos
     - Continue the conversation after the meeting
     - Start the conversation before the meeting
+    - Visibility of Online/Offline status of users
+    - Avatar taken while signing up using google
+    - See typing status of users in chat room
+    - Chat gets stored and users can come back to it
+    - Logout option
 * Firebase Authentication using google account
 * Chat Notification 
 
 ## How to run the app
 
-* Client side
+* On terminal 1-Client side
     - ```cd ClientChatFeature ```
+    - ```npm install```
     - ```npm start``` 
-* Server side
+* On terminal 2-Server side
     - ```cd MicrosoftTeams```
+    - ```npm init```
+    - ```npm install express ejs socket.io uuid peer```
+    - ```npm install -g nodemon```
     - ```nodemon app.js```
 
 ## Tech Stack used
@@ -50,19 +61,19 @@ As the theme of this year’s engage program says “Intelligence is the ability
 
 ## Screenshots
 
-### Login Page
+### Login Page- First, we get to the login page of the app and we can signup using google account here.
 ![login page](https://user-images.githubusercontent.com/64857584/125251529-0a350f80-e315-11eb-8618-a301c183b47e.png)
 
-### Chat's Feed
+### Chat's Feed- Now, we enter the chat's feed after logging in to the app, here we can create rooms, send or receive messages from other participants, share multimedia, delete chat rooms, see other users typing status, online/offline status, avatar etc. On the top right corner if we click, we go to video call option.
 ![chat's feed](https://user-images.githubusercontent.com/64857584/125251763-49fbf700-e315-11eb-9656-7ebcfe078d2f.png)
 
-### VideoCall- Create Room 
+### VideoCall- Create Room- Now, here we can create a room for video calling. 
 ![video room create](https://user-images.githubusercontent.com/64857584/125252009-8891b180-e315-11eb-97e0-1a4758f85868.png)
 
-### Meet-link Share option
+### Meet-link Share option- After entering the room, we can share the link with other participants in the chat room and ask them to join the meeting.
 ![vc](https://user-images.githubusercontent.com/64857584/125316838-1c836d80-e356-11eb-9bb2-65e4b1a807b4.png)
 
-### Join a VideoCall
+### Join a VideoCall- Other users joining the video call using the link.
 ![video room create](https://user-images.githubusercontent.com/64857584/125252256-c55da880-e315-11eb-945a-8cf50f60f686.png)
 
 ### Video Conversation
